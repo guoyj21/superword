@@ -46,7 +46,7 @@
         <tika.version>1.7</tika.version>
         <slf4j-api.version>1.6.4</slf4j-api.version>
         <logback-classic.version>0.9.28</logback-classic.version>
-        <jsoup.version>1.8.1</jsoup.version>
+        <jsoup.version>1.8.3</jsoup.version>
     </properties>
     
     <dependencies>
